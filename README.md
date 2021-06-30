@@ -1,14 +1,19 @@
 # Hi there 👋:v:
 
-:flag_costa_rica: ** My name is Joshymar Moncada Williams.** :flag_costa_rica:
+ **My name is Joshymar Moncada Williams.**
 <p>I´m a software Developer with four years of experience in design, coding, testing,
 and establishing systems improvements. Proficient in dotnet platforms and
 languages, desktop and web applications.</p>
+
+ :office: I’m currently working on Evertec at as Systems Analyst...
+ :blue_book: I am starting a master's degree in Full Stack Web development
+ 😄 Pronouns: him/ he/ his
+ 
 <!--
 **jmoncadacr/jmoncadacr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-- :office: I’m currently working on Evertec as ...
+- :office: I’m currently working on Evertec at as Systems Analyst...
 - 🌱 I’m currently learning Ful...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

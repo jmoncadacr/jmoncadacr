@@ -1,6 +1,6 @@
 # Hi there 👋:v:
 
-:costa_rica: ** My name is Joshymar Moncada Williams.**:costa_rica:
+:flag_costa_rica: ** My name is Joshymar Moncada Williams.** :flag_costa_rica:
 <p>I´m a software Developer with four years of experience in design, coding, testing,
 and establishing systems improvements. Proficient in dotnet platforms and
 languages, desktop and web applications.</p>
